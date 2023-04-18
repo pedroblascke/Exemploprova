@@ -18,3 +18,11 @@ Pede-se:
 1) Nome, altura e peso de uma pessoa
 2) O sistema cálcula o diagnóstico do IMC
 3) O sistema imprime o nome, peso, altura, IMC e diagnóstico da pessoa. 
+
+## Plus (Desejável)
+
+Calcular o % de gordura, usando fita métrica e adicionar aos resultados.
+
+Fórmula:
+
+

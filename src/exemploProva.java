@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class exemploProva {
     public static void main(String[] args) throws Exception {
 
         System.out.println("");
